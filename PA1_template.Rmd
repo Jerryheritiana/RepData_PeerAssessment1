@@ -15,6 +15,7 @@ library(ggplot2)
 library(dplyr)
 library(xtable)
 library(gridExtra)
+library(knitr)
 ```
 
 ```{r download data}
